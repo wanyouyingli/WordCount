@@ -1,0 +1,7 @@
+G:\软件工程原理\three'\WordAnalyse\WordAnalyse\bin\Debug\WordAnalyse.exe.config
+G:\软件工程原理\three'\WordAnalyse\WordAnalyse\bin\Debug\WordAnalyse.exe
+G:\软件工程原理\three'\WordAnalyse\WordAnalyse\bin\Debug\WordAnalyse.pdb
+G:\软件工程原理\three'\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.csprojAssemblyReference.cache
+G:\软件工程原理\three'\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.csproj.CoreCompileInputs.cache
+G:\软件工程原理\three'\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.exe
+G:\软件工程原理\three'\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.pdb
