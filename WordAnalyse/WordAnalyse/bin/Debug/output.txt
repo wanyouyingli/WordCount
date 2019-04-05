@@ -1,11 +1,11 @@
-aaaa->1
-aaab->1
-aaac->1
-aaaca->1
-aaad->1
-aaae->1
-aaaf->1
-aaag->1
-aaba->1
-aada->1
-nmsl->1
+﻿aaaa -> 1
+aaab -> 1
+aaac -> 1
+aaaca -> 2
+aaad -> 1
+aaae -> 1
+aaaf -> 1
+aaag -> 2
+aaba -> 1
+aada -> 1
+nmsl -> 1
