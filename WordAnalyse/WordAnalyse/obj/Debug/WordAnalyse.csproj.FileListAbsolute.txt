@@ -5,3 +5,10 @@ G:\软件工程原理\three'\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.cspro
 G:\软件工程原理\three'\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.csproj.CoreCompileInputs.cache
 G:\软件工程原理\three'\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.exe
 G:\软件工程原理\three'\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.pdb
+C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\WordAnalyse.exe.config
+C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\WordAnalyse.exe
+C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\WordAnalyse.pdb
+C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.csprojAssemblyReference.cache
+C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.csproj.CoreCompileInputs.cache
+C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.exe
+C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.pdb
