@@ -5,6 +5,7 @@ G:\软件工程原理\three'\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.cspro
 G:\软件工程原理\three'\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.csproj.CoreCompileInputs.cache
 G:\软件工程原理\three'\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.exe
 G:\软件工程原理\three'\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.pdb
+<<<<<<< HEAD
 C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\WordAnalyse.exe.config
 C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\WordAnalyse.exe
 C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\WordAnalyse.pdb
@@ -19,3 +20,12 @@ C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Deb
 C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\CountWord.pdb
 C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\CountCharacter.dll
 C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\CountCharacter.pdb
+=======
+G:\软件工程原理\WordCount\WordAnalyse\WordAnalyse\bin\Debug\WordAnalyse.exe.config
+G:\软件工程原理\WordCount\WordAnalyse\WordAnalyse\bin\Debug\WordAnalyse.exe
+G:\软件工程原理\WordCount\WordAnalyse\WordAnalyse\bin\Debug\WordAnalyse.pdb
+G:\软件工程原理\WordCount\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.csprojAssemblyReference.cache
+G:\软件工程原理\WordCount\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.csproj.CoreCompileInputs.cache
+G:\软件工程原理\WordCount\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.exe
+G:\软件工程原理\WordCount\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.pdb
+>>>>>>> 56deae3be9013c6f057f9e4cf8b394bd8296ce57
