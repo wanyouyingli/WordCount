@@ -33,6 +33,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AnalyseTop10, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\source\repos\AnalyseTop10\AnalyseTop10\bin\Debug\AnalyseTop10.dll</HintPath>
+    </Reference>
+    <Reference Include="CountCharacter">
+      <HintPath>..\..\..\..\..\..\source\repos\CountCharacter\CountCharacter\bin\Debug\CountCharacter.dll</HintPath>
+    </Reference>
+    <Reference Include="CountWord, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\source\repos\CountWord\CountWord\bin\Debug\CountWord.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

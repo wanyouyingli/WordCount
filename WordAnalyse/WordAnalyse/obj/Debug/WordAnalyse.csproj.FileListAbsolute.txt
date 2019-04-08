@@ -12,3 +12,10 @@ C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\obj\Deb
 C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.csproj.CoreCompileInputs.cache
 C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.exe
 C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.pdb
+C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\obj\Debug\WordAnalyse.csproj.CopyComplete
+C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\AnalyseTop10.dll
+C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\CountWord.dll
+C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\AnalyseTop10.pdb
+C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\CountWord.pdb
+C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\CountCharacter.dll
+C:\Users\cdd13\OneDrive\文档\cddchen\WordCount\WordAnalyse\WordAnalyse\bin\Debug\CountCharacter.pdb
